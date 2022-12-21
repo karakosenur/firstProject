@@ -2,5 +2,6 @@ public class C02 {
     public static void main(String[] args) {
 
         System.out.println("git status version dur");
+        System.out.println("Hello World");
     }
 }
