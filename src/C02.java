@@ -3,5 +3,6 @@ public class C02 {
 
         System.out.println("git status version dur");
         System.out.println("Hello World");
+        System.out.println("GÜNEŞ");
     }
 }
